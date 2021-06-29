@@ -1,0 +1,10 @@
+Infix to Postfix(using stack)
+Steps:
+● Put Brackets at appropriate positions.
+● If there’s a Left bracket, push it in the stack.
+If there’s an operator, push it in the stack.
+If there’s a character, add it to the string.
+If there’s a Right Bracket, pop from stack until the left bracket is
+popped.
+● Conversion done when the stack is empty.
+
