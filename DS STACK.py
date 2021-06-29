@@ -1,14 +1,5 @@
-'''stack data structures are those that are stacked upon one another just like we keep books
-we can access only the top element in stacks.
-stacks are linear data structures
-we need the following functions to implement stacks
-1.isEmpty(s)
-2.Push(s,i)
-3.Pop(s)
-4.Peek(s)
-5.Display(s)
-'''
-# implementing stack
+
+
 
 S=[] #stack
 top=None
